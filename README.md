@@ -1,6 +1,6 @@
 # Use VS code for Raspberry Pi Pico W
 Install MicroPico from Extensions <br>
-Press control+shift+P, type "MocroPico", and then select "MocroPico: Configure project"
+Press control+shift+P, type "MicroPico", and then select "MicroPico: Configure project"
 # Use blinking.py make sure that pico w connect to raspberry pi 5
 [code](./blinkingLED.py) <br>
 [image](./blinkingLED.py)
